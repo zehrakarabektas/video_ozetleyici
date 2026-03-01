@@ -29,12 +29,12 @@ Bu proje; video ve ses dosyalarını (veya YouTube linklerini) Whisper kullanara
 * **Sunum:** Gelen yapılandırılmış JSON verisi, frontend'de Bootstrap tabları ve akordeon yapısıyla kullanıcıya sunulur.
 
 ## 📦 Hızlı Kurulum
-* **1.** Sisteminizde FFmpeg kurulu olduğundan emin olun.
-* **2.** Bağımlılıkları yükleyin:  pip install -r requirements.txt
-* **3.** .env dosyasını oluşturun:
+ **1.** Sisteminizde FFmpeg kurulu olduğundan emin olun.
+ **2.** Bağımlılıkları yükleyin:  pip install -r requirements.txt
+ **3.** .env dosyasını oluşturun:
    OPENAI_API_KEY=your_key
    ANTHROPIC_API_KEY=your_key
-* **4.** Başlatın: uvicorn main:app --reload
+ **4.** Başlatın: uvicorn main:app --reload
 
 ## 🖼️ Uygulama Görünümü
 <img width="1694" height="876" alt="Ekran görüntüsü 2026-03-01 154350" src="https://github.com/user-attachments/assets/da08e4f5-2439-4dba-9dcb-5527040156f8" />
