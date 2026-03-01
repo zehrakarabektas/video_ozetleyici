@@ -30,10 +30,13 @@ Bu proje; video ve ses dosyalarını (veya YouTube linklerini) Whisper kullanara
 
 ## 📦 Hızlı Kurulum
  **1.** Sisteminizde FFmpeg kurulu olduğundan emin olun.
+ 
  **2.** Bağımlılıkları yükleyin:  pip install -r requirements.txt
+ 
  **3.** .env dosyasını oluşturun:
    OPENAI_API_KEY=your_key
    ANTHROPIC_API_KEY=your_key
+   
  **4.** Başlatın: uvicorn main:app --reload
 
 ## 🖼️ Uygulama Görünümü
