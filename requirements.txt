@@ -1,0 +1,9 @@
+openai-whisper
+openai
+python-dotenv
+fastapi
+uvicorn
+jinja2
+python-multipart
+pydub
+yt-dlp
