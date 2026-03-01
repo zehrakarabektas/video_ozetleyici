@@ -40,6 +40,6 @@ Bu proje; video ve ses dosyalarını (veya YouTube linklerini) Whisper kullanara
 <img width="1694" height="876" alt="Ekran görüntüsü 2026-03-01 154350" src="https://github.com/user-attachments/assets/da08e4f5-2439-4dba-9dcb-5527040156f8" />
 
 ## 🤝 Proje Ekibi
-* **[Esengül Turan]** 
-* **[Zehra Karabektaş]**
+* **Esengül TURAN** 
+* **Zehra KARABEKTAŞ**
   
